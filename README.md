@@ -19,6 +19,7 @@ The following datasets were used:
 - S&P Case-Shiller home price index (target variable)
 
 These datasets were preprocessed by filling in missing values and merged into a single dataframe for modeling. Additional engineered features were created including lags and rolling means of the target variable. 
+(Unzip the dataset before running the code)
 
 ## Exploratory Data Analysis
 
